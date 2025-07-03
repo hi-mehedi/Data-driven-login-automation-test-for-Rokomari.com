@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-04T05:22:38 BDT" name="Default suite" finished-at="2025-07-04T05:23:35 BDT" duration-ms="56903">
+    <groups>
+    </groups>
+    <test started-at="2025-07-04T05:22:38 BDT" name="Default test" finished-at="2025-07-04T05:23:35 BDT" duration-ms="56903">
+      <class name="com.mehedi.hasan.tests.LoginTest">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:35 BDT" name="StartBrowser" finished-at="2025-07-04T05:22:38 BDT" duration-ms="3531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:38 BDT" name="openUrl" finished-at="2025-07-04T05:22:41 BDT" duration-ms="2727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="resetPage()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:43 BDT" name="resetPage" finished-at="2025-07-04T05:22:46 BDT" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPage -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:46 BDT" name="multipleLoginTest" data-provider="loginData" finished-at="2025-07-04T05:22:53 BDT" duration-ms="7542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehedihasan.mehedi607@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[m123m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="resetPage()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:53 BDT" name="resetPage" finished-at="2025-07-04T05:22:57 BDT" duration-ms="3423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPage -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:22:57 BDT" name="multipleLoginTest" data-provider="loginData" finished-at="2025-07-04T05:23:03 BDT" duration-ms="6657" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehedi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[boss2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="resetPage()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:03 BDT" name="resetPage" finished-at="2025-07-04T05:23:06 BDT" duration-ms="2903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPage -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:06 BDT" name="multipleLoginTest" data-provider="loginData" finished-at="2025-07-04T05:23:13 BDT" duration-ms="6851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hasan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[boss3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="resetPage()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:13 BDT" name="resetPage" finished-at="2025-07-04T05:23:16 BDT" duration-ms="2885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPage -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:16 BDT" name="multipleLoginTest" data-provider="loginData" finished-at="2025-07-04T05:23:25 BDT" duration-ms="8454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehedihasan.mehedi607@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[M123456m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="resetPage()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:25 BDT" name="resetPage" finished-at="2025-07-04T05:23:28 BDT" duration-ms="3324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPage -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:28 BDT" name="multipleLoginTest" data-provider="loginData" finished-at="2025-07-04T05:23:35 BDT" duration-ms="6683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mehedihasan.mehedi607@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[m123m]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:35 BDT" name="report" finished-at="2025-07-04T05:23:35 BDT" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="closeBrowse()[pri:0, instance:com.mehedi.hasan.tests.LoginTest@239a307b]" started-at="2025-07-04T05:23:35 BDT" name="closeBrowse" finished-at="2025-07-04T05:23:36 BDT" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowse -->
+      </class> <!-- com.mehedi.hasan.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
